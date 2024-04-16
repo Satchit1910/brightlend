@@ -19,7 +19,6 @@ Add .env file:
 `DB_URL` = Add your database URL
 `ALLOWED_HOSTS` = localhost
 `DEBUG` = False/True
-`SECRET_KEY` = Generate Secret Key
 
 Run MakeMigrations and Migrate to generate the required Tables in the DB
 
